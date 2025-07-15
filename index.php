@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 <html lang="en">
 
 <?php include 'component/head.html'; ?>
@@ -740,3 +740,4 @@
 
 </body>
 </html>
+?>
